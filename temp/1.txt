@@ -1,0 +1,51 @@
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 
+04:37:28 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+04:37:29 IST eth0 1.00 1.00 0.54 0.07 0.00 0.00 0.00 
+04:37:29 IST lo 2.00 2.00 0.58 0.58 0.00 0.00 0.00 
+Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+Average: eth0 1.00 1.00 0.54 0.07 0.00 0.00 0.00 
+Average: lo 2.00 2.00 0.58 0.58 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 
+04:37:29 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+04:37:30 IST eth0 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+04:37:30 IST lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+Average: eth0 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+Average: lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 
+04:37:30 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+04:37:31 IST eth0 1.00 1.00 0.06 0.06 0.00 0.00 0.00 
+04:37:31 IST lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+Average: eth0 1.00 1.00 0.06 0.06 0.00 0.00 0.00 
+Average: lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 
+04:37:31 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 0
+4:37:32 IST eth0 1.00 1.00 0.06 0.04 0.00 0.00 0.00 
+04:37:32 IST lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+Average: eth0 1.00 1.00 0.06 0.04 0.00 0.00 0.00 
+Average: lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 
+04:37:32 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+04:37:33 IST eth0 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+04:37:33 IST lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+Average: eth0 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+Average: lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 
+04:37:33 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+04:37:34 IST eth0 0.00 1.00 0.00 0.06 0.00 0.00 0.00 
+04:37:34 IST lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 0.00 1.00 0.00 0.06 0.00 0.00 0.00 Average: lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 
+04:37:34 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 
+04:37:35 IST eth0 16.00 22.00 6.61 4.14 0.00 0.00 0.00 04:37:35 IST lo 4.00 4.00 0.97 0.97 0.00 0.00 0.00 Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 16.00 22.00 6.61 4.14 0.00 0.00 0.00 Average: lo 4.00 4.00 0.97 0.97 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 04:37:35 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 04:37:36 IST eth0 7.00 4.00 3.73 1.32 0.00 0.00 0.00 04:37:36 IST lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 7.00 4.00 3.73 1.32 0.00 0.00 0.00 Average: lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 04:37:36 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 04:37:37 IST eth0 74.00 70.00 65.56 14.79 0.00 0.00 0.00 04:37:37 IST lo 2.00 2.00 0.58 0.58 0.00 0.00 0.00 Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 74.00 70.00 65.56 14.79 0.00 0.00 0.00 Average: lo 2.00 2.00 0.58 0.58 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 04:37:37 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 04:37:38 IST eth0 76.00 59.00 57.82 9.96 0.00 0.00 0.00 04:37:38 IST lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 76.00 59.00 57.82 9.96 0.00 0.00 0.00 Average: lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 04:37:38 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 04:37:39 IST eth0 47.00 46.00 24.22 11.09 0.00 0.00 0.00 04:37:39 IST lo 2.00 2.00 0.38 0.38 0.00 0.00 0.00 Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 47.00 46.00 24.22 11.09 0.00 0.00 0.00 Average: lo 2.00 2.00 0.38 0.38 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 04:37:39 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 04:37:40 IST eth0 197.00 178.00 190.34 38.11 0.00 0.00 0.00 04:37:40 IST lo 10.00 10.00 2.68 2.68 0.00 0.00 0.00 Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 197.00 178.00 190.34 38.11 0.00 0.00 0.00 Average: lo 10.00 10.00 2.68 2.68 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 04:37:40 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 04:37:41 IST eth0 54.00 53.00 44.97 10.94 0.00 0.00 0.00 04:37:41 IST lo 2.00 2.00 0.58 0.58 0.00 0.00 0.00 Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 54.00 53.00 44.97 10.94 0.00 0.00 0.00 Average: lo 2.00 2.00 0.58 0.58 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 04:37:41 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 04:37:42 IST eth0 31.00 19.00 26.33 3.24 0.00 0.00 0.00 04:37:42 IST lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 31.00 19.00 26.33 3.24 0.00 0.00 0.00 Average: lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Linux 3.8.0-44-generic (alethea) Monday 03 November 2014 _x86_64_ (4 CPU) 04:37:42 IST IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s 04:37:43 IST eth0 1.00 0.00 0.06 0.00 0.00 0.00 0.00 04:37:43 IST lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 Average: IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s Average: eth0 1.00 0.00 0.06 0.00 0.00 0.00 0.00 Average: lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00

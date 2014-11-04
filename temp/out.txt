@@ -1,0 +1,2895 @@
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687043 43414 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003129 21078 0 0 0 0
+RxCur: 25687043
+TxCur: 4003129
+RxDiff: 25687043
+RxAbs: 25687043
+RxPrv: 25687043
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687043 43414 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003129 21078 0 0 0 0
+RxCur: 25687043
+TxCur: 4003129
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687043
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687043 43414 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003129 21078 0 0 0 0
+RxCur: 25687043
+TxCur: 4003129
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687043
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687043 43414 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003129 21078 0 0 0 0
+RxCur: 25687043
+TxCur: 4003129
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687043
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687043 43414 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003129 21078 0 0 0 0
+RxCur: 25687043
+TxCur: 4003129
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687043
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687043 43414 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003129 21078 0 0 0 0
+RxCur: 25687043
+TxCur: 4003129
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687043
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687043 43414 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003129 21078 0 0 0 0
+RxCur: 25687043
+TxCur: 4003129
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687043
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687043 43414 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003129 21078 0 0 0 0
+RxCur: 25687043
+TxCur: 4003129
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687043
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687043 43414 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003129 21078 0 0 0 0
+RxCur: 25687043
+TxCur: 4003129
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687043
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687591 43415 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003281 21080 0 0 0 0
+RxCur: 25687591
+TxCur: 4003281
+RxDiff: 548
+RxAbs: 548
+RxPrv: 25687591
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687591 43415 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003281 21080 0 0 0 0
+RxCur: 25687591
+TxCur: 4003281
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687591
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687591 43415 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003281 21080 0 0 0 0
+RxCur: 25687591
+TxCur: 4003281
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687591
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687591 43415 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003281 21080 0 0 0 0
+RxCur: 25687591
+TxCur: 4003281
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687591
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687591 43415 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003281 21080 0 0 0 0
+RxCur: 25687591
+TxCur: 4003281
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687591
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687591 43415 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003281 21080 0 0 0 0
+RxCur: 25687591
+TxCur: 4003281
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687591
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687591 43415 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003281 21080 0 0 0 0
+RxCur: 25687591
+TxCur: 4003281
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687591
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 108
+RxAbs: 108
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25687699 43416 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003417 21081 0 0 0 0
+RxCur: 25687699
+TxCur: 4003417
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25687699
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 548
+RxAbs: 548
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688247 43417 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688247
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688247
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688372
+TxCur: 4003493
+RxDiff: 125
+RxAbs: 125
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688372
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688372
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688372
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003493 21082 0 0 0 0
+RxCur: 25688372
+TxCur: 4003493
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688372 43418 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003559 21083 0 0 0 0
+RxCur: 25688372
+TxCur: 4003559
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688372
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688680 43421 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688680
+TxCur: 4003691
+RxDiff: 308
+RxAbs: 308
+RxPrv: 25688680
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 66
+RxAbs: 66
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688746 43422 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688746
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688746
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 82
+RxAbs: 82
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688828 43423 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688828
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688828
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 82
+RxAbs: 82
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
+RxDiff: 0
+RxAbs: 0
+RxPrv: 25688910
+linkData : 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000 link/ether c8:9c:dc:aa:59:4a brd ff:ff:ff:ff:ff:ff RX: bytes packets errors dropped overrun mcast 25688910 43424 0 0 0 0 TX: bytes packets errors dropped carrier collsns 4003691 21085 0 0 0 0
+RxCur: 25688910
+TxCur: 4003691
